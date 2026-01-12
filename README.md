@@ -16,13 +16,13 @@ As a practical demonstration of Machine Learning, I have trained an image classi
 
 ### Technologies Used
 - **Teachable Machine**: Used to train the image classification model.
-- **Webcam / Image Dataset**: Source of training data.
+- **Image Dataset**: - [Weather Dataset](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ### Watch the Demo
 Check out the video below to see how the model was trained and how it performs:
 
 [Watch the Demo Video](./lvl-4%20task-1%20-.mp4)
-> *[Optional: Add a brief description of what happens in the video, e.g., "In this video, I collect image samples for different weather types, train the model, and test it in real-time."]*
+
 
 ## 🚀 How to Run
 1. Read the `blog.md` to understand the theory.
