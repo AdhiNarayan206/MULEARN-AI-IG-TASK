@@ -20,10 +20,11 @@ More advanced AI, however, does not rely only on rules. It learns from data. Thi
 ## 2. Machine Learning (ML): Learning from Experience
 
 Machine Learning is a part of AI, but it works in a very special way. Instead of telling a computer exactly what to do in every situation, we give it examples and let it learn for itself.
+This is similar to how humans learn. A child is not given a long list of rules to recognize a cat. Instead, they see many cats and slowly learn what makes a cat a cat. Machine Learning works the same way. It looks at data, finds patterns, and improves over time.
 
 ![Machine Learning Concept - A simple drawing showing a computer "looking" at pictures of cats and dogs to learn the difference](image0.jpeg)
 
-This is similar to how humans learn. A child is not given a long list of rules to recognize a cat. Instead, they see many cats and slowly learn what makes a cat a cat. Machine Learning works the same way. It looks at data, finds patterns, and improves over time.
+
 
 ### Real-World Examples of Machine Learning:
 *   **Email Spam Filters:** Your inbox "learns" to recognize spam by looking at thousands of examples of junk mail and identifying common patterns like suspicious links or phrases.
@@ -33,10 +34,11 @@ This is similar to how humans learn. A child is not given a long list of rules t
 ## 3. Deep Learning (DL): The Brain Mimic
 
 Deep Learning is a more advanced form of Machine Learning. It uses structures called artificial neural networks, which are inspired by the way the human brain works.
+The human brain is made up of billions of neurons that pass signals to one another. Deep Learning models copy this idea in a digital way. They contain layers of connected units that process information step by step. Each layer learns something slightly more complex than the one before it.
 
 ![Deep Learning Layers - A drawing showing a simple "brain" connected to layers of nodes or circles](image1.jpeg)
 
-The human brain is made up of billions of neurons that pass signals to one another. Deep Learning models copy this idea in a digital way. They contain layers of connected units that process information step by step. Each layer learns something slightly more complex than the one before it.
+
 
 ### Real-World Examples of Deep Learning:
 *   **Facial Recognition:** This uses deep layers to "see" your eyes, then your nose, then your whole face to unlock your phone or tag you in a photo.
@@ -46,10 +48,11 @@ The human brain is made up of billions of neurons that pass signals to one anoth
 ## 4. Data Science: Extracting the Gold
 
 While AI, Machine Learning, and Deep Learning are about building intelligent systems, Data Science is about working with the raw material that powers them: data.
+Every click, every purchase, and every message creates data. But raw data by itself is messy and often useless. Data Science is the process of cleaning, organizing, analyzing, and interpreting this information so it becomes valuable insights.
 
 ![Data Science Process - A drawing showing a messy pile of "raw data" being cleaned and turned into a shining gold coin](imagae2.jpeg)
 
-Every click, every purchase, and every message creates data. But raw data by itself is messy and often useless. Data Science is the process of cleaning, organizing, analyzing, and interpreting this information so it becomes valuable insights.
+
 
 ### Real-World Examples of Data Science:
 *   **Healthcare Predictions:** Data scientists analyze thousands of patient records to find early warning signs of diseases before symptoms even appear.
